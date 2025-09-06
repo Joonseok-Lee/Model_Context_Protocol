@@ -34,3 +34,4 @@ build/
 
 .DS_Store
 application.properties
+mcp-servers-config.json
