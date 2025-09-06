@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.5",
+    "npx": "^3.0.0"
+  }
+}
